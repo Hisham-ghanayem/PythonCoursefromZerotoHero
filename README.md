@@ -1,0 +1,1 @@
+This is a file to pracctice my Udemy course on basic challenges and it keeps getting harder within the time. it is mainly about solving the challenges I am facing and nothing is creative work. I am commiting the codes even when they are wrong but then fixing them in case I was not able to solve it by myself
